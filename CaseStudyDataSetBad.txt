@@ -1,0 +1,230 @@
+[{
+		ProductName: "MENS COURT VISION LOW SNEAKER",
+		GraphicName: "NIKE",
+		CostPrice: "48.97",
+		MSRP: "59.99",
+		QtyOnHand: "32",
+		QtyOnBackOrder: "8",
+		Description: "A combination of retro construction and modern performance make the Court Vision Low men's sneaker from Nike a perfect shoe on or off the court. Call back to the '80s with the leather & synthetic or canvas upper and deep traction outsole. The Nike Swoosh keeps the classic vibe going."
+	},
+	{
+		ProductName: "MENS AIR MAX SC SNEAKER",
+		GraphicName: "NIKE",
+		CostPrice: "41.85",
+		MSRP: "84.99",
+		QtyOnHand: "93",
+		QtyOnBackOrder: "53",
+		Description: "The name says it all! You just know that the Nike Air Max SC men's sneaker is going to look and feel good. With a mesh & synthetic upper and foam midsole, this lace-up sneaker is sporty, but stylish. The Max Air unit provides optimal cushioning while the rubber outsole feature flex grooves to promote natural movement. "
+	},
+	{
+		ProductName: "WOMENS COURT VISION ALTA SNEAKER",
+		GraphicName: "NIKE",
+		CostPrice: "35.97",
+		MSRP: "79.99",
+		QtyOnHand: "45",
+		QtyOnBackOrder: "100",
+		Description: "Transparency is important to the Court Vision Alta women's sneaker from Nike. With a breathable mesh & synthetic upper and padded tongue for extra comfort, these lace-up sneakers are perfect for all your activities or just hanging out. The cushioned insole and foam platform midsole cradle your foot while the traction outsole keeps you stable and moving. "
+	},
+	{
+		ProductName: "WOMENS WAFFLE DEBUT RUNNING SHOE",
+		GraphicName: "NIKE",
+		CostPrice: "49.58",
+		MSRP: "69.99",
+		QtyOnHand: "92",
+		QtyOnBackOrder: "45",
+		Description: "It could be Daybreak, but with a modern twist, in the Nike Waffle Debut women’s running shoe. With a retro-inspired suede & nylon upper featuring an exposed foam tongue and perforated heel for extra comfort, this lace-up sneaker also has Swoosh heel wraps and textile underlays for durability. The lifted foam midsole cushions and elevates while the rubber Waffle outsole offers a sense of Nike heritage and reliable traction."
+	},
+	{
+		ProductName: "GIRLS INFANT COURT BOROUGH 2 SNEAKER",
+		GraphicName: "NIKE",
+		CostPrice: "11.27",
+		MSRP: "39.99",
+		QtyOnHand: "40",
+		QtyOnBackOrder: "8",
+		Description: "You'll love the retro style of this Court Borough 2 Low sneaker by Nike. The leather or suede upper has the vintage Nike style with the signature Swoosh branding  and colorful overlay accents for a stylish update. The cushioned insole will support her little foot while she steps in style."
+	},
+
+	{
+		ProductName: "MENS DLUX TRAIL RUNNING SHOE",
+		GraphicName: "SKECHERS",
+		CostPrice: "60.72",
+		MSRP: "89.99",
+		QtyOnHand: "56",
+		QtyOnBackOrder: "27",
+		Description: "Take on steep paths and rocky roads with the Skechers D'Lux men's trail running shoe. Designed with a Goodyear rubber outsole, breathable mesh upper and thick hike-ready laces, this sneaker is built for the toughest terrain. Your journey through the outdoors will never be the same again."
+	},
+	{
+		ProductName: "MENS SARGO FLIP FLOPS SANDALS",
+		GraphicName: "SKECHERS",
+		CostPrice: "31.90",
+		MSRP: "49.99",
+		QtyOnHand: "63",
+		QtyOnBackOrder: "64",
+		Description: "Complete comfort characterizes your summer in the Skechers Sargo - Playa Bay men's flip flop sandal. With a woven canvas upper featuring roominess at the toe & forefoot for a relaxed fit, this flip flop welcomes your foot during warmer weather with ease. The Luxe Foam footbed cushions every step while the traction outsole adds stable grip for confident strides."
+	},
+	{
+		ProductName: "WOMENS DLUX FITNESS RUNNING SHOES",
+		GraphicName: "SKECHERS",
+		CostPrice: "37.07",
+		MSRP: "74.99",
+		QtyOnHand: "55",
+		QtyOnBackOrder: "99",
+		Description: "Infinite motion is more assured in the Skechers D'Lux Walker women's sneaker. With a leather & breathable mesh upper featuring a relaxed fit for a roomy toe and forefoot, this lace-up shoe is machine washable for easy maintenance. The Air-Cooled Memory Foam insole and Skech-Foam midsole offer well-cushioned steps while the rubber traction outsole keeps you grounded in style."
+	},
+	{
+		ProductName: "GIRLS UNO SNEAKER",
+		GraphicName: "SKECHERS",
+		CostPrice: "23.71",
+		MSRP: "64.99",
+		QtyOnHand: "55",
+		QtyOnBackOrder: "18",
+		Description: "Elevate her summer athleisure wardrobe with the girls' Uno Pearl from Skechers Kids. This sneaker offers a traction outsole that grips the ground while providing unmatched shock-absorbing comfort and perforated accents for breathability!"
+	},
+	{
+		ProductName: "GIRLS TWI-LITES 2.0 UNICORN WINGS LIGHT UP SNEAKER",
+		GraphicName: "SKECHERS",
+		CostPrice: "37.22",
+		MSRP: "64.99",
+		QtyOnHand: "61",
+		QtyOnBackOrder: "74",
+		Description: "The sky is the limit in the Twi-Lites 2.0 Unicorn Wings Light Up girls' high-top sneaker from Skechers. With a synthetic upper and lace-up closure for a snug fit, your little girl is ready to take off and soar. The cushioned insole protects her feet, while the flexible traction outsole keeps her safe, so the magical adventures never stop."
+	},
+
+	{
+		ProductName: "WOMENS ASHER SLIP ON SNEAKER",
+		GraphicName: "VANS",
+		CostPrice: "30.80",
+		MSRP: "64.99",
+		QtyOnHand: "32",
+		QtyOnBackOrder: "5",
+		Description: "From its streamlined, slip-on design to the two-tone checkered print, the Vans Asher women’s skate shoe is laid back and authentically cool. The canvas upper won’t weigh you down when you’re trying new tricks on the board."
+	},
+	{
+		ProductName: "BOYS DOHENY SNEAKER",
+		GraphicName: "VANS",
+		CostPrice: "15.10",
+		MSRP: "44.99",
+		QtyOnHand: "27",
+		QtyOnBackOrder: "70",
+		Description: "Simple, yet skater-approved, the Vans Doheny canvas lace-up for grade school boys have a classic low-top silhouette and feature contrast stitching with vulcanized midsoles. From the skate park to school hallways, the Doheny is a true classic."
+	},
+	{
+		ProductName: "MENS FILMORE SNEAKER",
+		GraphicName: "VANS",
+		CostPrice: "30.99",
+		MSRP: "64.99",
+		QtyOnHand: "99",
+		QtyOnBackOrder: "34",
+		Description: "A skate shoe that holds up, on and off the board, the Vans men’s Filmore sneaker is good for kicking it around town. Double stitched, featuring a padded tongue and collar, with a vulcanized sole."
+	},
+	{
+		ProductName: "WOMENS AVILA 3 POINT FLIP FLOP SANDAL",
+		GraphicName: "VANS",
+		CostPrice: "10.72",
+		MSRP: "29.99",
+		QtyOnHand: "58",
+		QtyOnBackOrder: "62",
+		Description: "Slide into cool style with the Avila 3-Point women's flip flop sandal from Vans. With a faux nubuck upper featuring a neoprene lining for a great feel, these slip-on thongs are easy to pair with any of your favorite looks. The molded EVA footbed has anatomical arch support while the rubber outsole is durable and textured."
+	},
+	{
+		ProductName: "MENS WARD SNEAKER",
+		GraphicName: "VANS",
+		CostPrice: "38.66",
+		MSRP: "69.99",
+		QtyOnHand: "61",
+		QtyOnBackOrder: "12",
+		Description: "A Vans original classic, with double-stitching and distinctive Vans sideswipe branding, these men’s Ward shoes will be a staple of your casual wardrobe. With rubber waffle outsoles, vulcanized midsoles and lace closures, they’ll last a while, too."
+	},
+
+	{
+		ProductName: "WOMENS ILSA SANDAL",
+		GraphicName: "ZODIAC",
+		CostPrice: "39.31",
+		MSRP: "89.99",
+		QtyOnHand: "11",
+		QtyOnBackOrder: "25",
+		Description: "Give your look a modern finish with the Ilsa sandal by Zodiac. The upper features a trendy halo strap with a solo band construct for a sleek look. The 2 1/4block heel adds the perfect amount of height to this stunning silhouette."
+	},
+	{
+		ProductName: "WOMENS SADIE",
+		GraphicName: "ZODIAC",
+		CostPrice: "33.40",
+		MSRP: "69.99",
+		QtyOnHand: "18",
+		QtyOnBackOrder: "72",
+		Description: "Strap into a stylish summer with the Sadie women's sandal from Bandolino. It boasts multiple straps with a subtle peep toe and striking stiletto heel. The perfect accessory to happy hour and a night on the town."
+	},
+	{
+		ProductName: "WOMENS MAJORCA SLIDE SANDAL",
+		GraphicName: "ZODIAC",
+		CostPrice: "19.29",
+		MSRP: "99.99",
+		QtyOnHand: "69",
+		QtyOnBackOrder: "50",
+		Description: "Shift into relax mode with the Zodiac Majorca women’s slide sandal. You’ll love the feel of the soft faux shearling upper against your feet as you settle in. Its divine footbed with extra arch and heel cushioning cradles your feet, and the solid outsole makes it easy to head outdoors if you wish.  "
+	},
+	{
+		ProductName: "WOMENS GEMMA COMBAT BOOT",
+		GraphicName: "ZODIAC",
+		CostPrice: "49.57",
+		MSRP: "149.99",
+		QtyOnHand: "89",
+		QtyOnBackOrder: "87",
+		Description: "Edgy chic is captured in the Gemma women's bootie from Zodiac. This leather mid-shaft silhouette features lace details, bold buckles and a block heel for a cool vibe."
+	},
+	{
+		ProductName: "WOMENS BENSON PLATFORM SLIP ON SNEAKER",
+		GraphicName: "ZODIAC",
+		CostPrice: "27.32",
+		MSRP: "79.99",
+		QtyOnHand: "39",
+		QtyOnBackOrder: "64",
+		Description: "Keep it fresh and fun with Zodiac’s Benson women’s slip on sneaker. Designed for casual days, the slip-on style is easy on, easy off with side stretch panels and lively colors. Its 2” wedge brings a sporty feature to any outfit, while the foam footbed keeps your feet cushioned for the events ahead."
+	},
+
+	{
+		ProductName: "MENS FLUIDFLOW 2.0 RUNNING SHOE",
+		GraphicName: "ADIDAS",
+		CostPrice: "23.50",
+		MSRP: "79.99",
+		QtyOnHand: "36",
+		QtyOnBackOrder: "69",
+		Description: "Rack up some miles in the adidas Fluidflow 2.0 men's running shoe. With an adaptive-fit knit upper and lace-up closure, these shoes also feature an OrthoLite sockliner for an excellent fit. The Flexible Bounce cushioned midsole goes easy on your foot during runs while the synthetic outsole reduces shock absorption."
+	},
+	{
+		ProductName: "MENS AX2S TRAIL RUNNING SHOE",
+		GraphicName: "ADIDAS",
+		CostPrice: "36.58",
+		MSRP: "64.99",
+		QtyOnHand: "35",
+		QtyOnBackOrder: "73",
+		Description: "Try the harder way in the adidas AXS2 men's trail running shoe. With a recycled Primegreen mesh & synthetic upper featuring a padded collar & tongue for extra comfort, this lace-up trail shoe also includes a toe bumper for added protection. The cushioned footbed alongside the EVA midsole comfort and absort shock while the lugged rubber sole keeps traction at a maximum."
+	},
+	{
+		ProductName: "WOMENS ADILETTE COMFORT SLIDE SANDAL",
+		GraphicName: "ADIDAS",
+		CostPrice: "21.66",
+		MSRP: "39.99",
+		QtyOnHand: "1",
+		QtyOnBackOrder: "94",
+		Description: "Slip into something a little more comfortable with the adidas Adilette Comfort women's slide. The effortless construction is topped off with a textured strap and is embossed with the adidas 3-Stripes logo. The quick dry fabric foodbed keeps your foot in place when each step you take."
+	},
+	{
+		ProductName: "GIRLS INFANT LITE RACER ADAPT 4 SLIP ON SNEAKER",
+		GraphicName: "ADIDAS",
+		CostPrice: "12.97",
+		MSRP: "44.99",
+		QtyOnHand: "97",
+		QtyOnBackOrder: "70",
+		Description: "Her little vibe becomes instantly cool with the adidas Lite Racer Adapt 4.0 infant girls' sneaker. With a soft and breathable mesh upper hovering over Cloudfoam cushioning, this slip-on  sneaker also has a stylish elastic branded strap on the front for a sock-like fit. Crawl, waddle or toddler run, she'll have a blast moving in these."
+	},
+	{
+		ProductName: "MENS RACER TR21 SNEAKERS",
+		GraphicName: "ADIDAS",
+		CostPrice: "22.75",
+		MSRP: "74.99",
+		QtyOnHand: "12",
+		QtyOnBackOrder: "25",
+		Description: "Make your daily grind less harsh in the adidas Racer TR21 men's sneaker. With a breathable mesh & synthetic upper and rear pull tab for easy entry, this lace-up sneaker is inspired by the need to let your feet fly so they're lightweight. The Cloudfoam midole cushions every step while the rubber outsole provides traction and stability."
+	}
+]
